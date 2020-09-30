@@ -1,0 +1,8 @@
+.page {
+  min-width: 320px;
+  max-width: 1184px;
+  /* для размеров больше 1280px отцентрировал весь контент */
+  margin: 0 auto;
+  font-family: "Inter", serif;
+  color: #fff;
+}
