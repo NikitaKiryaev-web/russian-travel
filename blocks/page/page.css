@@ -3,7 +3,7 @@
   max-width: 1184px;
   /* для размеров больше 1280px отцентрировал весь контент */
   margin: 0 auto;
-  font-family: "Inter", serif;
+  font-family: "Inter", "Arial ", sans-serif;
   color: #fff;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
