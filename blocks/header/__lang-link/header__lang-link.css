@@ -5,10 +5,15 @@
   padding: 0;
   color: #fff;
   text-decoration: none;
+  transition: opacity .3s;
 }
 
 .header__lang-link:last-of-type {
   margin-right: 0;
+}
+
+.header__lang-link:hover {
+  opacity: .8;
 }
 
 @media screen and (max-width: 320px) {
